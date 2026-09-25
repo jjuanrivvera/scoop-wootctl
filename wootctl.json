@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/wootctl/releases/download/v0.4.0/wootctl_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/wootctl/releases/download/v0.5.0/wootctl_0.5.0_windows_amd64.zip",
             "bin": [
                 "wootctl.exe"
             ],
-            "hash": "0dc2e2450579f3f3a540f1467d5c69058134664c4aa7d73efa2a93c34d977dd6"
+            "hash": "114cbd45519736127efe52b4009f0dd5a242dc9884937ae5227bd901e384568e"
         }
     }
 }
